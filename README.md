@@ -57,9 +57,9 @@ Directory구조 생성
 
 src   - components
 
-        - actions
+  - actions
 
-- reducers
+  - reducers
 
 
 
